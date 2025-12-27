@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fastapi": "^0.0.8",
+    "openai": "^6.15.0",
+    "python-dotenv": "^0.0.1-security",
+    "uvicorn": "^0.0.1-security"
+  }
+}
